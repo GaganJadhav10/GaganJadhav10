@@ -1,107 +1,110 @@
-# Gagan Jadhav
+# Hi, I'm Gagan 👋
 
-### Computer Science Engineering Student · AI · Software Engineering · Cybersecurity
-
-I’m a Computer Science Engineering student interested in building AI-powered applications, intelligent systems, and secure software solutions.
-
-My work spans artificial intelligence, machine learning, full-stack development, Flutter applications, cybersecurity, and blockchain-based systems.
+🎓 Computer Science Engineering Undergraduate
+🤖 AI/ML | Software Engineering | Cybersecurity
+🛠️ Learning by building practical, real-world applications
 
 ---
 
-## About
+## 🚀 About Me
 
-* 🎓 B.Tech in Computer Science Engineering — SIES Graduate School of Technology
-* 🤖 Interested in AI, machine learning, NLP, and intelligent applications
-* 🔐 Exploring cybersecurity and secure software systems
-* 📱 Building cross-platform applications with Flutter
-* ⛓️ Exploring blockchain, smart contracts, and decentralized storage
-* 💻 Interested in developing practical, real-world software solutions
+I’m a Computer Science Engineering undergraduate interested in Artificial Intelligence, Machine Learning, Software Engineering, and Cybersecurity.
+
+I enjoy building practical applications that combine AI with modern software technologies, from conversational AI and intelligent mobile applications to secure and decentralized systems.
+
+I actively explore new technologies through **projects, internships, hackathons, and hands-on experimentation**, with a focus on turning ideas into working software.
 
 ---
 
-## Technical Focus
+## 🔍 Current Focus
+
+* Artificial Intelligence & Machine Learning
+* Generative AI & Conversational Systems
+* NLP & Sentiment Analysis
+* Full-Stack & Backend Development
+* Flutter & Cross-Platform Applications
+* Cybersecurity & Secure Software
+* Blockchain & Decentralized Applications
+
+---
+
+## 🧰 Tech Stack
 
 **Languages**
-
 Python · Java · JavaScript · C · C++ · Solidity
 
-**AI & Machine Learning**
-
+**AI / ML**
 Pandas · NumPy · Scikit-learn · NLP · Sentiment Analysis · Generative AI
 
-**Web & Backend**
-
-React.js · Node.js · Express.js · REST APIs · API Integration
+**Frontend & Backend**
+React.js · HTML · CSS · Node.js · Express.js · Flask · REST APIs
 
 **Mobile Development**
-
 Flutter · Dart · Android Studio
 
 **Databases & Storage**
-
 MySQL · Firebase · SQLite · IPFS
 
 **Cybersecurity & Blockchain**
-
-Vulnerability Assessment · CTF · Solidity · Blockchain · IPFS · SHA-256
-
----
-
-## Featured Projects
-
-### EcoIQ
-
-AI-powered environmental intelligence platform focused on transforming environmental data into actionable insights.
-
-**Focus:** Artificial Intelligence · Environmental Intelligence · Data Analysis
+Vulnerability Assessment · CTF · Solidity · Smart Contracts · SHA-256
 
 ---
 
-### Carbon Unity
+## 📌 Featured Projects
 
-Technology platform focused on environmental sustainability and carbon-related applications.
+### 🌱 EcoIQ
 
-**Focus:** Sustainability · Software Engineering · Environmental Technology
+An AI-powered environmental intelligence platform focused on using technology and intelligent systems to address environmental challenges.
 
----
-
-### AI Mental Health Therapist
-
-A full-stack conversational AI application supporting real-time voice and text interactions using modern AI and speech technologies.
-
-**Focus:** AI · NLP · Speech Recognition · LLMs · Voice Synthesis
+**Focus:** AI · Environmental Intelligence · Software Engineering
 
 ---
 
-### FinWise
+### 🌍 Carbon Unity
 
-AI-powered personal finance management application built with Flutter and Firebase, featuring personalized financial insights, voice-based expense entry, analytics, and offline-first data synchronization.
+A technology-driven sustainability project focused on building practical solutions around environmental and carbon-related challenges.
 
-**Focus:** Flutter · Firebase · Gemini AI · Personal Finance · Mobile Development
+**Focus:** Sustainability · Environmental Technology · Software
 
 ---
 
-### Inventory Management
+### 🧠 AI Mental Health Therapist
 
-A software application designed to manage inventory operations, records, and workflows through a structured management system.
+A full-stack conversational AI application supporting real-time voice and text interactions.
+
+Built using React, Flask, SQLite, Groq APIs, Whisper, and Edge TTS.
+
+**Focus:** AI · NLP · Voice AI · LLMs
+
+---
+
+### 💰 FinWise
+
+An AI-powered personal finance management application built with Flutter and Firebase.
+
+Features include personalized financial insights, voice-based expense entry, real-time expense tracking, analytics, offline-first data synchronization, and reminders.
+
+**Focus:** Flutter · Firebase · Gemini AI · Mobile Development
+
+---
+
+### 📦 Inventory Management
+
+A software application designed to manage inventory operations and streamline day-to-day inventory workflows.
 
 **Focus:** Software Engineering · Database Management · Application Development
 
 ---
 
-## Experience
+### 🔐 Blockchain Evidence Management System
 
-**Software Engineer Intern — Syneidisi Tech Pvt Ltd**
+A decentralized evidence management system using IPFS, SHA-256 hashing, and Solidity smart contracts to support secure evidence storage and blockchain-based chain-of-custody tracking.
 
-Worked on backend development for the startup product *Dump It*, implementing core modules and REST APIs using Python and Git. Contributed to debugging, refactoring, and application stability.
-
-**Cyber Security Intern — Future Interns**
-
-Worked on threat analysis and vulnerability assessment through practical cybersecurity tasks and real-world security scenarios.
+**Focus:** Blockchain · Cybersecurity · IPFS · Solidity
 
 ---
 
-## Achievements & Certifications
+## 🏆 Achievements & Certifications
 
 * 🏆 Winner — Cognition '25, Intra-College Competition
 * 📜 NPTEL — Introduction to Machine Learning
@@ -110,13 +113,28 @@ Worked on threat analysis and vulnerability assessment through practical cyberse
 
 ---
 
-## Currently Exploring
+## 💼 Experience
 
-* Machine Learning and NLP
-* Generative AI applications
-* Secure software development
-* AI-powered real-world applications
-* Cybersecurity
+**Software Engineer Intern — Syneidisi Tech Pvt Ltd**
+
+Worked on backend development for the startup product *Dump It*, implementing core modules and REST APIs using Python and Git, while contributing to debugging, refactoring, and application stability.
+
+**Cyber Security Intern — Future Interns**
+
+Worked on threat analysis and vulnerability assessment through practical cybersecurity tasks and hands-on security assessments.
 
 ---
 
+## 📚 Currently Learning
+
+* Machine Learning & NLP
+* Generative AI
+* Secure Software Development
+* Backend Engineering
+* Building production-oriented applications
+
+---
+
+## 🤝 Let's Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
