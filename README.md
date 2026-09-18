@@ -1,10 +1,18 @@
 # Gagan Jadhav
 
-CS Engineering undergraduate (IoT & Cybersecurity) building AI-powered, full-stack, and blockchain applications. Currently a Full Stack Developer Intern at Sanskrit Tech Smart Solutions.
+```
+role: Full Stack Developer Intern @ Sanskrit Tech Smart Solutions
+education: B.Tech, Computer Science Engineering (IoT & Cybersecurity) — SIES GST, Mumbai University
+interests: [AI/ML, Generative AI, Full-Stack Development, Blockchain, Cybersecurity]
+currently_learning: [Geospatial Data & GIS, Cloud Deployment & CI/CD]
+```
 
-**Stack:** Python · JavaScript · React · Node.js · Flask · Solidity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaganJadhav10&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,react,nodejs,flask,solidity,flutter,dart,firebase,mysql,androidstudio)](https://skillicons.dev)
+
 **AI/ML:** Pandas · NumPy · Scikit-learn · NLP · Gemini API · Groq LLM · Whisper
-**Also:** Flutter/Dart · Firebase · MySQL · IPFS
+**Also:** IPFS
 
 ## Projects
 
