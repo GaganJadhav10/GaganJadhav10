@@ -12,7 +12,7 @@ interests: [AI/ML, Generative AI, Full-Stack Development, Blockchain, Cybersecur
 
 - **[Carbon Unity](https://github.com/GaganJadhav10/CarbonUnity)** — ML-based carbon credit estimation platform for smallholder Indian farmers, with blockchain-based traceability from verified data to credit issuance, built for India's expanding Carbon Credit Trading Scheme.
 - **[FinWise AI](https://github.com/GaganJadhav10/Finwise_Ai)** — Flutter personal finance app with Gemini AI-powered insights, voice-to-expense entry, and offline-first sync.
-- **[AI-Therapist](https://github.com/GaganJadhav10/AI-Mental-Health-Assistant)** — Full-stack conversational AI assistant with real-time voice/text using Whisper and Groq LLM.
+- **[NEO — AI Mental Health Assistant](https://github.com/GaganJadhav10/AI-Mental-Health-Assistant)** — Full-stack conversational AI assistant with real-time voice and text interactions, session management, and sentiment analysis.
 - **[Blockchain-Based Evidence Management System](https://github.com/GaganJadhav10/ForensicChain)** — Decentralized evidence storage on IPFS with SHA-256 verification and Solidity-based chain-of-custody tracking.
 
 
